@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SoundObserver()
+comment1.params=item\ m
+comment1.target=void\ update(java.lang.String,\ Message)
+numComments=2

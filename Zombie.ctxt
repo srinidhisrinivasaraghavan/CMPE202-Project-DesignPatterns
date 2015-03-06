@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=boolean\ atWorldEdge()
+comment1.text=\r\n\ Check\ whether\ we\ are\ at\ the\ edge\ of\ the\ world.\ If\ we\ are,\ turn\ a\ bit.\r\n\ If\ not,\ do\ nothing.\r\n
+comment2.params=
+comment2.target=void\ turnAtEdge()
+comment3.params=
+comment3.target=void\ randomTurn()
+comment3.text=\r\n\ Randomly\ decide\ to\ turn\ from\ the\ current\ direction,\ or\ not.\ If\ we\ turn\r\n\ turn\ a\ bit\ left\ or\ right\ by\ a\ random\ degree.\r\n
+numComments=4
