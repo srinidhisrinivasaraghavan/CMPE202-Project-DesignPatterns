@@ -1,11 +1,5 @@
-                     TRICK THE TURTLE
-
-                   Michael Kšlling, 2012
-                    
-Welcome to TRICK THE TURTLE.  This is a simple Greenfoot scenario, 
-designed to practice the basics of programming. 
-
-Not much exists in this world yet. There are turtles - but that's it.
-
-This scenario is used for the Joy of Code video tutorial. 
-http://blogs.kent.ac.uk/mik/category/joy-of-code/
+PROJECT TITLE: HeMan-vs-Zombies(Greenfoot 2D game)
+PURPOSE OF PROJECT: To implement Design Patters in Java
+VERSION : 1
+HOW TO START THIS PROJECT: Download and open in Greenfoot SDK and run it
+AUTHORS: Srinidhi Srinivasa Raghavan
